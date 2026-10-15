@@ -35,6 +35,7 @@ Console.WriteLine("*************************************************************
 Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
 Console.WriteLine("***************************************************************************");
 
+
 for (int i = 0; i < res.Length; i++)
 {
     Console.WriteLine(res[i]);

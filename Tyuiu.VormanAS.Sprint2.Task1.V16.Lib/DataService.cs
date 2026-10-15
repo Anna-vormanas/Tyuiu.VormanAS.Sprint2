@@ -6,6 +6,7 @@ namespace Tyuiu.VormanAS.Sprint2.Task1.V16.Lib
     {
         public bool[] GetLogicOperations(int a, int b, int c, int d)
         {
+
             bool[] res = new bool[6];
 
             res[0] = (a < b) | (c > d);
