@@ -1,22 +1,27 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="../../../../../../source/repos/gitVerse/Tyuiu.VormanAS.Sprint2/Tyuiu.VormanAS.Sprint2.Task0.V19.Lib/Tyuiu.VormanAS.Sprint2.Task0.V19.Lib.csproj" />
-    <Project Path="../../../../../../source/repos/gitVerse/Tyuiu.VormanAS.Sprint2/Tyuiu.VormanAS.Sprint2.Task0.V19.Test/Tyuiu.VormanAS.Sprint2.Task0.V19.Test.csproj" />
-    <Project Path="../../../../../../source/repos/gitVerse/Tyuiu.VormanAS.Sprint2/Tyuiu.VormanAS.Sprint2.Task0.V19/Tyuiu.VormanAS.Sprint2.Task0.V19.csproj" />
+    <Project Path="Tyuiu.VormanAS.Sprint2.Task0.V19.Lib/Tyuiu.VormanAS.Sprint2.Task0.V19.Lib.csproj" />
+    <Project Path="Tyuiu.VormanAS.Sprint2.Task0.V19.Test/Tyuiu.VormanAS.Sprint2.Task0.V19.Test.csproj" />
+    <Project Path="Tyuiu.VormanAS.Sprint2.Task0.V19/Tyuiu.VormanAS.Sprint2.Task0.V19.csproj" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="../../../../../../source/repos/gitVerse/Tyuiu.VormanAS.Sprint2/Tyuiu.VormanAS.Sprint2.Task1.V16.Lib/Tyuiu.VormanAS.Sprint2.Task1.V16.Lib.csproj" Id="720d4571-2247-49ee-8a4c-c8c856165eca" />
-    <Project Path="../../../../../../source/repos/gitVerse/Tyuiu.VormanAS.Sprint2/Tyuiu.VormanAS.Sprint2.Task1.V16.Test/Tyuiu.VormanAS.Sprint2.Task1.V16.Test.csproj" Id="ddad79b9-85db-4aa2-8684-3433a5b01299" />
-    <Project Path="../../../../../../source/repos/gitVerse/Tyuiu.VormanAS.Sprint2/Tyuiu.VormanAS.Sprint2.Task1.V16/Tyuiu.VormanAS.Sprint2.Task1.V16.csproj" Id="e1444c8b-655e-4d6c-b5ef-14d4a70c8a6d" />
+    <Project Path="Tyuiu.VormanAS.Sprint2.Task1.V16.Lib/Tyuiu.VormanAS.Sprint2.Task1.V16.Lib.csproj" Id="720d4571-2247-49ee-8a4c-c8c856165eca" />
+    <Project Path="Tyuiu.VormanAS.Sprint2.Task1.V16.Test/Tyuiu.VormanAS.Sprint2.Task1.V16.Test.csproj" Id="ddad79b9-85db-4aa2-8684-3433a5b01299" />
+    <Project Path="Tyuiu.VormanAS.Sprint2.Task1.V16/Tyuiu.VormanAS.Sprint2.Task1.V16.csproj" Id="e1444c8b-655e-4d6c-b5ef-14d4a70c8a6d" />
   </Folder>
   <Folder Name="/Task2/">
-    <Project Path="../../../../../../source/repos/gitVerse/Tyuiu.VormanAS.Sprint2/Tyuiu.VormanAS.Sprint2.Task2.V12.Lib/Tyuiu.VormanAS.Sprint2.Task2.V12.Lib.csproj" Id="0f5cbc86-590b-4ac8-90db-0699c6700701" />
-    <Project Path="../../../../../../source/repos/gitVerse/Tyuiu.VormanAS.Sprint2/Tyuiu.VormanAS.Sprint2.Task2.V12.Test/Tyuiu.VormanAS.Sprint2.Task2.V12.Test.csproj" Id="60a5161d-d267-4c89-9003-5eb8dfc6c4cb" />
-    <Project Path="../../../../../../source/repos/gitVerse/Tyuiu.VormanAS.Sprint2/Tyuiu.VormanAS.Sprint2.Task2.V12/Tyuiu.VormanAS.Sprint2.Task2.V12.csproj" Id="222f9b61-b7b2-44e7-8231-c0313c117620" />
+    <Project Path="Tyuiu.VormanAS.Sprint2.Task2.V12.Lib/Tyuiu.VormanAS.Sprint2.Task2.V12.Lib.csproj" Id="0f5cbc86-590b-4ac8-90db-0699c6700701" />
+    <Project Path="Tyuiu.VormanAS.Sprint2.Task2.V12.Test/Tyuiu.VormanAS.Sprint2.Task2.V12.Test.csproj" Id="60a5161d-d267-4c89-9003-5eb8dfc6c4cb" />
+    <Project Path="Tyuiu.VormanAS.Sprint2.Task2.V12/Tyuiu.VormanAS.Sprint2.Task2.V12.csproj" Id="222f9b61-b7b2-44e7-8231-c0313c117620" />
   </Folder>
   <Folder Name="/Task3/">
     <Project Path="Tyuiu.VormanAS.Sprint2.Task3.V5.Lib/Tyuiu.VormanAS.Sprint2.Task3.V5.Lib.csproj" Id="67201c9d-5c73-4b4c-aa81-03124785407b" />
     <Project Path="Tyuiu.VormanAS.Sprint2.Task3.V5.Test/Tyuiu.VormanAS.Sprint2.Task3.V5.Test.csproj" Id="15697b9e-ed78-465a-b6d3-543ad3d5ecc9" />
     <Project Path="Tyuiu.VormanAS.Sprint2.Task3.V5/Tyuiu.VormanAS.Sprint2.Task3.V5.csproj" Id="666c363d-3042-48fb-9e88-6809eb2f4781" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.VormanAS.Sprint2.Task4.V20.Lib/Tyuiu.VormanAS.Sprint2.Task4.V20.Lib.csproj" Id="9f7c066a-85e7-4d2c-82f7-6b9f1396b11e" />
+    <Project Path="Tyuiu.VormanAS.Sprint2.Task4.V20.Test/Tyuiu.VormanAS.Sprint2.Task4.V20.Test.csproj" Id="a9792131-8b8e-414d-83db-f41cf4c04c1b" />
+    <Project Path="Tyuiu.VormanAS.Sprint2.Task4.V20/Tyuiu.VormanAS.Sprint2.Task4.V20.csproj" Id="3f56c086-238e-4912-bc45-90b35aebb31b" />
   </Folder>
 </Solution>
